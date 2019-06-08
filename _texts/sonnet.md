@@ -19,5 +19,5 @@ I
   - And only herald to the gaudy spring,
   - Within thine own bud buriest thy content,
   - And tender churl mak'st waste in niggarding:
-  - Pity the world, or else this glutton be,
-  - To eat the world's due, by the grave and thee.
+  - {:.indent-2}Pity the world, or else this glutton be,
+  - {:.indent-2}To eat the world's due, by the grave and thee.
