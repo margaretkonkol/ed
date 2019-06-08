@@ -1,8 +1,8 @@
 --- 
-layout:
-title:
-author:
-source:
+layout: poem
+title: Sonnet I
+author: William Shakespeare
+source: http://www.gutenberg.org/cache/epub/1041/pg1041.txt
 ---
 
 I
