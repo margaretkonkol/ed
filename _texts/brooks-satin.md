@@ -1,7 +1,15 @@
-The Sundays of Satin-Legs Smith
-BY GWENDOLYN BROOKS
-Inamoratas, with an approbation,
-Bestowed his title. Blessed his inclination.
+---
+layout: poem
+title:
+source:
+author:
+---
+
+
+- The Sundays of Satin-Legs Smith
+- BY GWENDOLYN BROOKS
+- Inamoratas, with an approbation,
+- Bestowed his title. Blessed his inclination.
 
 He wakes, unwinds, elaborately: a cat
 Tawny, reluctant, royal. He is fat
