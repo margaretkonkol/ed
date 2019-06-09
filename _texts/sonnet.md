@@ -8,7 +8,7 @@ source: http://www.gutenberg.org/cache/epub/1041/pg1041.txt
 # I
 
   - From **fairest** creatures we desire increase,
-  - That thereby beauty's rose might never die,
+  - That _thereby_ beauty's rose might never die,
   - But as the riper should by time decease,
   - His tender heir might bear his memory:
   - But thou, contracted to thine own bright eyes,
