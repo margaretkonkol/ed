@@ -1,8 +1,8 @@
 ---
 layout: poem
-title:
-source:
-author:
+title: The Sundays of Satin-Legs Smith
+source: https://www.poetryfoundation.org/poems/43314/the-sundays-of-satin-legs-smith
+author: GWENDOLYN BROOKS
 ---
 
 
