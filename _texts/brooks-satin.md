@@ -7,10 +7,16 @@ author: GWENDOLYN BROOKS
 ---
 
 
-- The Sundays of Satin-Legs Smith
+- # The Sundays of Satin-Legs Smith
 - BY GWENDOLYN BROOKS
 - > Inamoratas, with an approbation,
 - > Bestowed his title. Blessed his inclination.
+
+
+
+
+![Bronzeville streetscape 1940](https://github.com/margaretkonkol/ed/blob/gh-pages/assets/Regal-Theater-Bronzeville.jpg)
+
 
 He wakes, unwinds, elaborately: a cat
 Tawny, reluctant, royal. He is fat
