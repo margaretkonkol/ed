@@ -22,58 +22,58 @@ He wakes, unwinds, elaborately: a cat
 Tawny, reluctant, royal. He is fat
 And fine this morning. Definite. Reimbursed.
 
-He waits a moment, he designs his reign,
-That no performance may be plain or vain.
-Then rises in a clear delirium.
+He waits a moment, he designs his reign, 
+That no performance may be plain or vain. 
+Then rises in a clear delirium. 
 
-He sheds, with his pajamas, shabby days.
-And his desertedness, his intricate fear, the
-Postponed resentments and the prim precautions.
+He sheds, with his pajamas, shabby days. 
+And his desertedness, his intricate fear, the 
+Postponed resentments and the prim precautions. 
 
-Now, at his bath, would you deny him lavender
-Or take away the power of his pine?
-What smelly substitute, heady as wine,
-Would you provide? life must be aromatic.
-There must be scent, somehow there must be some.
-Would you have flowers in his life? suggest
-Asters? a Really Good geranium?
-A white carnation? would you prescribe a Show
-With the cold lilies, formal chrysanthemum
-Magnificence, poinsettias, and emphatic
-Red of prize roses? might his happiest
-Alternative (you muse) be, after all,
-A bit of gentle garden in the best
-Of taste and straight tradition? Maybe so.
-But you forget, or did you ever know,
-His heritage of cabbage and pigtails,
-Old intimacy with alleys, garbage pails,
-Down in the deep (but always beautiful) South
-Where roses blush their blithest (it is said)
-And sweet magnolias put Chanel to shame.
+Now, at his bath, would you deny him lavender 
+Or take away the power of his pine? 
+What smelly substitute, heady as wine, 
+Would you provide? life must be aromatic. 
+There must be scent, somehow there must be some. 
+Would you have flowers in his life? suggest 
+Asters? a Really Good geranium? 
+A white carnation? would you prescribe a Show 
+With the cold lilies, formal chrysanthemum 
+Magnificence, poinsettias, and emphatic 
+Red of prize roses? might his happiest 
+Alternative (you muse) be, after all, 
+A bit of gentle garden in the best 
+Of taste and straight tradition? Maybe so. 
+But you forget, or did you ever know, 
+His heritage of cabbage and pigtails, 
+Old intimacy with alleys, garbage pails, 
+Down in the deep (but always beautiful) South 
+Where roses blush their blithest (it is said) 
+And sweet magnolias put Chanel to shame. 
 
-No! He has not a flower to his name.
-Except a feather one, for his lapel.
-Apart from that, if he should think of flowers
-It is in terms of dandelions or death.
-Ah, there is little hope. You might as well—
-Unless you care to set the world a-boil
-And do a lot of equalizing things,
-Remove a little ermine, say, from kings,
-Shake hands with paupers and appoint them men,
-For instance—certainly you might as well
-Leave him his lotion, lavender and oil.
+No! He has not a flower to his name. 
+Except a feather one, for his lapel. 
+Apart from that, if he should think of flowers 
+It is in terms of dandelions or death. 
+Ah, there is little hope. You might as well— 
+Unless you care to set the world a-boil 
+And do a lot of equalizing things, 
+Remove a little ermine, say, from kings, 
+Shake hands with paupers and appoint them men, 
+For instance—certainly you might as well 
+Leave him his lotion, lavender and oil. 
 
-Let us proceed. Let us inspect, together
-With his meticulous and serious love,
-The innards of this closet. Which is a vault
-Whose glory is not diamonds, not pearls,
-Not silver plate with just enough dull shine.
-But wonder-suits in yellow and in wine,
-Sarcastic green and zebra-striped cobalt.
-With shoulder padding that is wide
-And cocky and determined as his pride;
-Ballooning pants that taper off to ends
-Scheduled to choke precisely.
+Let us proceed. Let us inspect, together 
+With his meticulous and serious love, 
+The innards of this closet. Which is a vault 
+Whose glory is not diamonds, not pearls, 
+Not silver plate with just enough dull shine. 
+But wonder-suits in yellow and in wine, 
+Sarcastic green and zebra-striped cobalt. 
+With shoulder padding that is wide 
+And cocky and determined as his pride; 
+Ballooning pants that taper off to ends 
+Scheduled to choke precisely. 
                                            Here are hats
 Like bright umbrellas; and hysterical ties
 Like narrow banners for some gathering war.
