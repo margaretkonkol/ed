@@ -9,8 +9,8 @@ author: GWENDOLYN BROOKS
 
 - The Sundays of Satin-Legs Smith
 - BY GWENDOLYN BROOKS
-- Inamoratas, with an approbation,
-- Bestowed his title. Blessed his inclination.
+- > Inamoratas, with an approbation,
+- > Bestowed his title. Blessed his inclination.
 
 He wakes, unwinds, elaborately: a cat
 Tawny, reluctant, royal. He is fat
