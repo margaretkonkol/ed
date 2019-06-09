@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               The New New York Edition
-tagline:             'A scholarly edition of Henry James for the 21st century'
-description:         'This work-in-progress is based on Ed, a Jekyll theme that conforms to minimal computing priciples and allows quick, lightweight digital editions to be constructed.'
+title:               Add title here
+tagline:             'add a tagline'
+description:         ''
 url:                 'http://shawnaross.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Shawna Ross
-  url:               https://twitter.com/ShawnaRoss
-  email:             shawnaross1@gmail.com
+  name:              Margaret Konkol
+  url:               https://twitter.com/mekonkol
+  email:             mkonkol@odu.edu
 
 # Permalinks
 
