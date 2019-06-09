@@ -4,8 +4,8 @@
 title:               Add title here
 tagline:             'add a tagline'
 description:         ''
-url:                 ''
-baseurl:             'http://margaretkonkol.github.io/ed'
+url:                 'http://shawnaross.github.io'
+baseurl:             '/ed'
 
 # About/contact
 author:
