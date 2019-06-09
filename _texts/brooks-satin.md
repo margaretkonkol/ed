@@ -9,15 +9,15 @@ author: GWENDOLYN BROOKS
 
 - The Sundays of Satin-Legs Smith
 - BY GWENDOLYN BROOKS
-- > Inamoratas, with an approbation,
-- > Bestowed his title. Blessed his inclination.
+
 
 
 
 
 ![Bronzeville streetscape 1940](https://github.com/margaretkonkol/ed/blob/gh-pages/assets/Regal-Theater-Bronzeville.jpg)
 
-
+- > In amoratas, with an approbation,
+- > Bestowed his title. Blessed his inclination.
 He wakes, unwinds, elaborately: a cat
 Tawny, reluctant, royal. He is fat
 And fine this morning. Definite. Reimbursed.
