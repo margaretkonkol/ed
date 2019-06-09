@@ -15,7 +15,7 @@ author: GWENDOLYN BROOKS
 
 
 
-![Bronzeville streetscape 1940](https://github.com/margaretkonkol/ed/blob/gh-pages/assets/Regal-Theater-Bronzeville.jpg)
+![Bronzeville streetscape 1940](/assets/Regal-Theater-Bronzeville.jpg)
 
 
 He wakes, unwinds, elaborately: a cat
