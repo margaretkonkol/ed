@@ -18,17 +18,17 @@ author: GWENDOLYN BROOKS
 
 - > In amoratas, with an approbation,
 - > Bestowed his title. Blessed his inclination.
-He wakes, unwinds, elaborately: a cat
-Tawny, reluctant, royal. He is fat
-And fine this morning. Definite. Reimbursed.
+- He wakes, unwinds, elaborately: a cat
+- Tawny, reluctant, royal. He is fat
+- And fine this morning. Definite. Reimbursed.
 
-He waits a moment, he designs his reign, 
-That no performance may be plain or vain. 
-Then rises in a clear delirium. 
+- He waits a moment, he designs his reign, 
+- That no performance may be plain or vain. 
+- Then rises in a clear delirium. 
 
-He sheds, with his pajamas, shabby days. 
-And his desertedness, his intricate fear, the 
-Postponed resentments and the prim precautions. 
+- He sheds, with his pajamas, shabby days. 
+- And his desertedness, his intricate fear, the 
+- Postponed resentments and the prim precautions. 
 
 Now, at his bath, would you deny him lavender 
 Or take away the power of his pine? 
