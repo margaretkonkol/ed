@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: The Sundays of Satin-Legs Smith
+title: "The Sundays of Satin-Legs Smith"
 source: https://www.poetryfoundation.org/poems/43314/the-sundays-of-satin-legs-smith
 publication date: 1948
 author: GWENDOLYN BROOKS
