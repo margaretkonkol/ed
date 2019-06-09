@@ -7,7 +7,7 @@ author: GWENDOLYN BROOKS
 ---
 
 
-- # The Sundays of Satin-Legs Smith
+- The Sundays of Satin-Legs Smith
 - BY GWENDOLYN BROOKS
 - > Inamoratas, with an approbation,
 - > Bestowed his title. Blessed his inclination.
