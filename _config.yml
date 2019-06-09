@@ -5,7 +5,7 @@ title:               Add title here
 tagline:             'add a tagline'
 description:         ''
 url:                 ''
-baseurl:             '/ed'
+baseurl:             'margaretkonkol/ed'
 
 # About/contact
 author:
